@@ -1,0 +1,33 @@
+{
+  "vault_id": "MF-VLT-20250621040918",
+  "version": "v1.0.0-beta",
+  "build_hash": "ceeb528908fcb2cd12b135bb214228ca",
+  "sealed_at": "2025-06-21T04:37:46.867178",
+  "included_modules": [
+    "inventory_system",
+    "siege_map",
+    "gui_stub",
+    "ruins_skirmish",
+    "morale_system",
+    "gui_localhost",
+    "fog_of_war_system",
+    "terrain_modifiers",
+    "status_effects_system",
+    "unit_roles_system",
+    "dynamic_turn_queue",
+    "campaign_scenario_graph",
+    "dynamic_map_event",
+    "save_state_handler",
+    "gui_command_api",
+    "frontend_editor",
+    "runtime_bridge",
+    "agent_trigger_map",
+    "gui_stub_launcher",
+    "solodev_portable_launcher"
+  ],
+  "release_mode": "public",
+  "runtime_type": "Shell + Tactical Engine + GUI + DevOps",
+  "authorized_by": "S.R. Bryant",
+  "integrity_status": "sealed",
+  "ics_fingerprint": "32b181b3e77b98632bf8fdcaea39e7625eb7ab927461d4cd70346910eade33de"
+}

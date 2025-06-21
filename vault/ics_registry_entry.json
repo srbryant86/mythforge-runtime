@@ -1,0 +1,16 @@
+{
+  "ics_hash": "32b181b3e77b98632bf8fdcaea39e7625eb7ab927461d4cd70346910eade33de",
+  "registered_at": "2025-06-21T04:39:06.203318",
+  "registered_by": "S.R. Bryant",
+  "runtime_version": "v1.0.0-beta",
+  "release_type": "sealed",
+  "vault_id": "MF-VLT-20250621040918",
+  "structural_scope": [
+    "tactical_engine",
+    "campaign_scenario_graph",
+    "gui_stub",
+    "runtime_bridge",
+    "portable_launcher",
+    "vault_system"
+  ]
+}

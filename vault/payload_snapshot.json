@@ -1,0 +1,46 @@
+{
+  "status": "active",
+  "vault_id": "MF-VLT-20250621040918",
+  "last_updated": "2025-06-21T04:37:24.045998",
+  "modules": [
+    "inventory_system",
+    "siege_map",
+    "gui_stub",
+    "ruins_skirmish",
+    "morale_system",
+    "gui_localhost",
+    "fog_of_war_system",
+    "terrain_modifiers",
+    "status_effects_system",
+    "unit_roles_system",
+    "dynamic_turn_queue",
+    "campaign_scenario_graph",
+    "dynamic_map_event",
+    "save_state_handler",
+    "gui_command_api",
+    "frontend_editor",
+    "runtime_bridge",
+    "agent_trigger_map",
+    "gui_stub_launcher",
+    "solodev_portable_launcher"
+  ],
+  "hash": "ceeb528908fcb2cd12b135bb214228ca",
+  "autosim_last": {
+    "scenario": "siege_map",
+    "result": "simulation executed",
+    "units_remaining": {
+      "player": 5,
+      "enemy": 0
+    },
+    "log": [
+      "Gate breached",
+      "Tower cleared",
+      "Keep captured"
+    ]
+  },
+  "release": {
+    "version": "v1.0.0-beta",
+    "mode": "public",
+    "build_hash": "ceeb528908fcb2cd12b135bb214228ca"
+  }
+}

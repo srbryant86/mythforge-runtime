@@ -1,0 +1,18 @@
+{
+  "build": {
+    "beforeBuildCommand": "",
+    "devPath": "http://localhost:8000",
+    "distDir": "../frontend"
+  },
+  "package": {
+    "productName": "MythForgeEditor",
+    "version": "1.0.0"
+  },
+  "tauri": {
+    "windows": [{
+      "title": "MythForge GUI",
+      "width": 960,
+      "height": 600
+    }]
+  }
+}

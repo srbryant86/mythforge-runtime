@@ -1,0 +1,4 @@
+{
+  "patch_agent": "python agents/runtime_patch_agent.py",
+  "init_ui": "python assets/ui/main_interface.json"
+}
